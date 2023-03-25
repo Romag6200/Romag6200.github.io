@@ -1,0 +1,35 @@
+main>ul{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    color: rgb(248, 242, 242);
+    top: 1;
+}
+main>.cards1{
+    background-color: rgb(61, 99, 61);
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+main{
+    background-color: rgb(56, 56, 56);
+    height: 800px;
+}
+main>.cards2{
+    color: rgb(255, 255, 255);
+    
+}
+#text1{
+    font-size: 20px;
+}
+#text2{
+    font-size: 15px;
+}
+#text3{
+    font-size: 15px;
+}
+main>.cards2{
+    margin-left: 800px;
+}
